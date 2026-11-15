@@ -24,6 +24,7 @@ The root LICENSE is BSD 3-Clause. Preserve the copyright notice, conditions, and
 
 ## Status
 - [x] Demo scope documented.
+- [x] Creto-branded static concept prototype added in `creto-demo/index.html` with fictional sample content and lightweight interactions.
 - [ ] Select compatible Wagtail/Django versions and verify template/dependency licences.
 - [ ] Scaffold the Creto-branded sample site and CMS page models.
 - [ ] Configure content, media, security, and deployment.
